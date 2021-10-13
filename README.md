@@ -1,7 +1,9 @@
 # Hi, I’m @jesssekeogh
 - I’m interested in creating dencentralised applications, as well as Django applictaions
 - I’m currently learning Python, Javascript and Django
-- Im starting to learn some samrt contract languages such as Motoko for ICP and Solidity for Ethereum
+- Im starting to learn some smart contract languages such as Motoko for ICP and Solidity for Ethereum
+
+![This is an image](https://www.digitaltechnologylabs.com/wp-content/uploads/2019/06/01-240x300.jpg)
 
 
 <!---
