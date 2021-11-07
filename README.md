@@ -1,5 +1,5 @@
 # Hi, I’m @jesssekeogh
-- I’m interested in creating dencentralised applications, as well as Django applictaions
+- I’m interested in creating decentralized applications, as well as Django applications,
 - I’m currently learning Python, Javascript and Django
 - Im starting to learn some smart contract languages such as Motoko for ICP and Solidity for Ethereum
 
